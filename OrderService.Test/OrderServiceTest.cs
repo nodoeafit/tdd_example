@@ -17,4 +17,19 @@ public class OrderServiceTest
         var orderId = service.CreateOrder(order);
         Assert.Equal(order.Id, orderId);
     }
+
+    [Fact]
+    public void CreateOrder_ShouldThrowException_WhenOrderAmountIsZero(){
+        var service = new OrderService.OrderService();
+        var order = new Order { Id = 1, Amount = 0 };
+        Assert.Throws<ArgumentException>(() => service.CreateOrder(order));
+    }
+    [Fact]
+    public void CreateOrder_ShouldApplyPromotion_WhenOrderHasPromotion(){
+        var service = new OrderService.OrderService();
+        var order = new Order { Id = 3, Amount = 10000, HasPromotion = true };
+        var orderId = service.CreateOrder(order);
+        Assert.Equal(order.Id, orderId);
+        Assert.Equal(9000, order.Amount);
+    }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vOdmFCH7QtE=",
+  "dgSpecHash": "eTTvEL1pLkk=",
   "success": true,
-  "projectFilePath": "/Users/alvaroperez/Desktop/TDDExample/OrderService/OrderService.csproj",
+  "projectFilePath": "C:\\Users\\pipet\\Documents\\GitHub\\tdd_example\\OrderService\\OrderService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
