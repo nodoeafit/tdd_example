@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\OrderService",
+    "\\OrderService.Test",
+    "\\OrderService.Test\\bin\\Debug",
+    "\\OrderService.Test\\obj\\Debug",
+    "\\OrderService.Test\\obj\\Debug\\net9.0"
+  ],
+  "SelectedNode": "\\OrderService\\OrderService.cs",
+  "PreviewInSolutionExplorer": false
+}

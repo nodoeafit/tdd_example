@@ -1086,32 +1086,39 @@
     ]
   },
   "packageFolders": {
-    "/Users/alvaroperez/.nuget/packages/": {}
+    "C:\\Users\\Roger Escobar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alvaroperez/Desktop/TDDExample/OrderService.Test/OrderService.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Pruebas\\tdd_example\\OrderService.Test\\OrderService.Test.csproj",
       "projectName": "OrderService.Test",
-      "projectPath": "/Users/alvaroperez/Desktop/TDDExample/OrderService.Test/OrderService.Test.csproj",
-      "packagesPath": "/Users/alvaroperez/.nuget/packages/",
-      "outputPath": "/Users/alvaroperez/Desktop/TDDExample/OrderService.Test/obj/",
+      "projectPath": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Pruebas\\tdd_example\\OrderService.Test\\OrderService.Test.csproj",
+      "packagesPath": "C:\\Users\\Roger Escobar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Pruebas\\tdd_example\\OrderService.Test\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/alvaroperez/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Roger Escobar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/alvaroperez/Desktop/TDDExample/OrderService/OrderService.csproj": {
-              "projectPath": "/Users/alvaroperez/Desktop/TDDExample/OrderService/OrderService.csproj"
+            "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Pruebas\\tdd_example\\OrderService\\OrderService.csproj": {
+              "projectPath": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Pruebas\\tdd_example\\OrderService\\OrderService.csproj"
             }
           }
         }
@@ -1169,7 +1176,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
