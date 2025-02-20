@@ -1,4 +1,6 @@
-namespace OrderService {
+using OrderService.Models;
+
+namespace OrderService.Services {
     public class OrderService {
         public int CreateOrder (Order? order){
           if(order == null){
