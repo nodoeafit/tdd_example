@@ -17,4 +17,20 @@ public class OrderServiceTest
         var orderId = service.CreateOrder(order);
         Assert.Equal(order.Id, orderId);
     }
+
+    [Fact]
+    public void GetOrderById_ShouldThrowException_WhenOrderDoesNotExist(){
+        var service = new OrderService.OrderService();
+        Assert.Throws<KeyNotFoundException>(()=> service.GetOrderById(4));
+    }
+
+    [Fact]
+    public void GetOrderById_ShouldReturnOrder_WhenOrderIdExists(){
+        var service = new OrderService.OrderService();
+        var orderExist = new Order{ Id = 1, Amount = 20000 };
+        service.CreateOrder(orderExist);
+        var result = service.GetOrderById(orderExist.Id);
+        Assert.Equal(orderExist.Id, result.Id);
+        Assert.Equal(orderExist.Amount, result.Amount);
+    }
 }
