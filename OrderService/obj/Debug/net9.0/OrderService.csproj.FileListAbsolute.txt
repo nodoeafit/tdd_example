@@ -1,0 +1,11 @@
+/Users/alvaroperez/Desktop/TDDExample/OrderService/bin/Debug/net9.0/OrderService.deps.json
+/Users/alvaroperez/Desktop/TDDExample/OrderService/bin/Debug/net9.0/OrderService.dll
+/Users/alvaroperez/Desktop/TDDExample/OrderService/bin/Debug/net9.0/OrderService.pdb
+/Users/alvaroperez/Desktop/TDDExample/OrderService/obj/Debug/net9.0/OrderService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alvaroperez/Desktop/TDDExample/OrderService/obj/Debug/net9.0/OrderService.AssemblyInfoInputs.cache
+/Users/alvaroperez/Desktop/TDDExample/OrderService/obj/Debug/net9.0/OrderService.AssemblyInfo.cs
+/Users/alvaroperez/Desktop/TDDExample/OrderService/obj/Debug/net9.0/OrderService.csproj.CoreCompileInputs.cache
+/Users/alvaroperez/Desktop/TDDExample/OrderService/obj/Debug/net9.0/OrderService.dll
+/Users/alvaroperez/Desktop/TDDExample/OrderService/obj/Debug/net9.0/refint/OrderService.dll
+/Users/alvaroperez/Desktop/TDDExample/OrderService/obj/Debug/net9.0/OrderService.pdb
+/Users/alvaroperez/Desktop/TDDExample/OrderService/obj/Debug/net9.0/ref/OrderService.dll
