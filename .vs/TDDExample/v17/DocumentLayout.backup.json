@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\nodo\\tdd_example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8EA487-68FE-4D15-9B25-4871A7F513CD}|OrderService.Test\\OrderService.Test.csproj|c:\\nodo\\tdd_example\\orderservice.test\\orderservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8EA487-68FE-4D15-9B25-4871A7F513CD}|OrderService.Test\\OrderService.Test.csproj|solutionrelative:orderservice.test\\orderservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4109889-F737-4424-B4F5-D092D8D03302}|OrderService\\OrderService.csproj|c:\\nodo\\tdd_example\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4109889-F737-4424-B4F5-D092D8D03302}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4109889-F737-4424-B4F5-D092D8D03302}|OrderService\\OrderService.csproj|c:\\nodo\\tdd_example\\orderservice\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4109889-F737-4424-B4F5-D092D8D03302}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 389,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\nodo\\tdd_example\\OrderService\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderService\\OrderService.cs",
+              "ToolTip": "C:\\nodo\\tdd_example\\OrderService\\OrderService.cs",
+              "RelativeToolTip": "OrderService\\OrderService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIAxwCoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T02:40:33.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\nodo\\tdd_example\\OrderService\\Order.cs",
+              "RelativeDocumentMoniker": "OrderService\\Order.cs",
+              "ToolTip": "C:\\nodo\\tdd_example\\OrderService\\Order.cs",
+              "RelativeToolTip": "OrderService\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T02:40:27.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderServiceTest.cs",
+              "DocumentMoniker": "C:\\nodo\\tdd_example\\OrderService.Test\\OrderServiceTest.cs",
+              "RelativeDocumentMoniker": "OrderService.Test\\OrderServiceTest.cs",
+              "ToolTip": "C:\\nodo\\tdd_example\\OrderService.Test\\OrderServiceTest.cs",
+              "RelativeToolTip": "OrderService.Test\\OrderServiceTest.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAArwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T02:25:47.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 127,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 71,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
