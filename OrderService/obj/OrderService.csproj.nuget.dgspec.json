@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alvaroperez/Desktop/TDDExample/OrderService/OrderService.csproj": {}
+    "C:\\Users\\USER\\source\\repos\\NET\\tdd_example\\OrderService\\OrderService.csproj": {}
   },
   "projects": {
-    "/Users/alvaroperez/Desktop/TDDExample/OrderService/OrderService.csproj": {
+    "C:\\Users\\USER\\source\\repos\\NET\\tdd_example\\OrderService\\OrderService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alvaroperez/Desktop/TDDExample/OrderService/OrderService.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\NET\\tdd_example\\OrderService\\OrderService.csproj",
         "projectName": "OrderService",
-        "projectPath": "/Users/alvaroperez/Desktop/TDDExample/OrderService/OrderService.csproj",
-        "packagesPath": "/Users/alvaroperez/.nuget/packages/",
-        "outputPath": "/Users/alvaroperez/Desktop/TDDExample/OrderService/obj/",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\NET\\tdd_example\\OrderService\\OrderService.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\NET\\tdd_example\\OrderService\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/alvaroperez/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -59,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
