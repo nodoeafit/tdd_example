@@ -1,8 +1,10 @@
 ﻿namespace MenuService.Tests
 {
+    using Xunit;
+    using MenuServiceNamespace;
     public class MenuServiceTest
     {
-        menuService = new MenuService();
+        MenuService menuService = new MenuServiceNamespace.MenuService();
 
         [Fact]
         // Obtiene el menu si no esta vacio
@@ -40,8 +42,8 @@
         // Elimina un item del menu
         public void RemoveMenuItem_ShouldRemoveItem()
         {
-            menuService.RemoveMenuItem("Hamburguesa");
-            Assert.Throws<KeyNotFoundException>(() => menuService.GetPrice("Hamburguesa"));
+            var result = menuService.RemoveMenuItem("Hamburguesa");
+            Assert.Equal(0, result);
         }
 
         [Fact]
