@@ -1,0 +1,44 @@
+# .gitignore for TDD-Example
+
+# Build output
+bin/
+obj/
+
+# User-specific files
+.vscode/
+*.user
+*.suo
+*.cache
+*.log
+*.tlog
+
+# Dependencies
+packages/
+
+# Test results
+TestResults/
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+
+# Rider & JetBrains
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Resharper
+_ReSharper*/

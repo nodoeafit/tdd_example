@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService", "OrderServic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService.Test", "OrderService.Test\OrderService.Test.csproj", "{9A8EA487-68FE-4D15-9B25-4871A7F513CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitchenService.Tests", "KitchenService.Tests\KitchenService.Tests.csproj", "{39AAB655-D8FB-43A6-90F1-7CFFDC184F12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{9A8EA487-68FE-4D15-9B25-4871A7F513CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A8EA487-68FE-4D15-9B25-4871A7F513CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A8EA487-68FE-4D15-9B25-4871A7F513CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39AAB655-D8FB-43A6-90F1-7CFFDC184F12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39AAB655-D8FB-43A6-90F1-7CFFDC184F12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39AAB655-D8FB-43A6-90F1-7CFFDC184F12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39AAB655-D8FB-43A6-90F1-7CFFDC184F12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
