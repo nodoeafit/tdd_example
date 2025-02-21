@@ -19,6 +19,6 @@ public class MenuServiceTest
         var service = new MenuService();
         var menu = service.GetMenu(DateTime.Today);
         Assert.NotNull(menu);
-        Assert.NotEmpty(menu.Items); // Suponiendo que `Items` es una propiedad con los platos disponibles
+        Assert.NotEmpty(menu.Items); // 
     }
 }
