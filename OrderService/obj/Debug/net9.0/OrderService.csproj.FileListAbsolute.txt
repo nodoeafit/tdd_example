@@ -45,3 +45,15 @@ C:\Users\Admin\source\repos\tdd_example\OrderService\obj\Debug\net9.0\OrderServi
 C:\Users\Admin\source\repos\tdd_example\OrderService\obj\Debug\net9.0\refint\OrderService.dll
 C:\Users\Admin\source\repos\tdd_example\OrderService\obj\Debug\net9.0\OrderService.pdb
 C:\Users\Admin\source\repos\tdd_example\OrderService\obj\Debug\net9.0\ref\OrderService.dll
+C:\Pruebas_class\tdd_example\OrderService\bin\Debug\net9.0\OrderService.deps.json
+C:\Pruebas_class\tdd_example\OrderService\bin\Debug\net9.0\OrderService.dll
+C:\Pruebas_class\tdd_example\OrderService\bin\Debug\net9.0\OrderService.pdb
+C:\Pruebas_class\tdd_example\OrderService\obj\Debug\net9.0\OrderService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pruebas_class\tdd_example\OrderService\obj\Debug\net9.0\OrderService.AssemblyInfoInputs.cache
+C:\Pruebas_class\tdd_example\OrderService\obj\Debug\net9.0\OrderService.AssemblyInfo.cs
+C:\Pruebas_class\tdd_example\OrderService\obj\Debug\net9.0\OrderService.csproj.CoreCompileInputs.cache
+C:\Pruebas_class\tdd_example\OrderService\obj\Debug\net9.0\OrderService.sourcelink.json
+C:\Pruebas_class\tdd_example\OrderService\obj\Debug\net9.0\OrderService.dll
+C:\Pruebas_class\tdd_example\OrderService\obj\Debug\net9.0\refint\OrderService.dll
+C:\Pruebas_class\tdd_example\OrderService\obj\Debug\net9.0\OrderService.pdb
+C:\Pruebas_class\tdd_example\OrderService\obj\Debug\net9.0\ref\OrderService.dll

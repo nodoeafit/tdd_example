@@ -428,3 +428,14 @@ C:\Users\Admin\source\repos\tdd_example\OrderService.Test\obj\Debug\net9.0\refin
 C:\Users\Admin\source\repos\tdd_example\OrderService.Test\obj\Debug\net9.0\OrderService.Test.pdb
 C:\Users\Admin\source\repos\tdd_example\OrderService.Test\obj\Debug\net9.0\OrderService.Test.genruntimeconfig.cache
 C:\Users\Admin\source\repos\tdd_example\OrderService.Test\obj\Debug\net9.0\ref\OrderService.Test.dll
+C:\Pruebas_class\tdd_example\OrderService.Test\bin\Debug\net9.0\.msCoverageSourceRootsMapping_OrderService.Test
+C:\Pruebas_class\tdd_example\OrderService.Test\bin\Debug\net9.0\CoverletSourceRootsMapping_OrderService.Test
+C:\Pruebas_class\tdd_example\OrderService.Test\obj\Debug\net9.0\OrderService.Test.csproj.AssemblyReference.cache
+C:\Pruebas_class\tdd_example\OrderService.Test\obj\Debug\net9.0\OrderService.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pruebas_class\tdd_example\OrderService.Test\obj\Debug\net9.0\OrderService.Test.AssemblyInfoInputs.cache
+C:\Pruebas_class\tdd_example\OrderService.Test\obj\Debug\net9.0\OrderService.Test.AssemblyInfo.cs
+C:\Pruebas_class\tdd_example\OrderService.Test\obj\Debug\net9.0\OrderService.Test.csproj.CoreCompileInputs.cache
+C:\Pruebas_class\tdd_example\OrderService.Test\obj\Debug\net9.0\OrderService.Test.sourcelink.json
+C:\Pruebas_class\tdd_example\OrderService.Test\obj\Debug\net9.0\OrderService.Test.dll
+C:\Pruebas_class\tdd_example\OrderService.Test\obj\Debug\net9.0\refint\OrderService.Test.dll
+C:\Pruebas_class\tdd_example\OrderService.Test\obj\Debug\net9.0\OrderService.Test.pdb
