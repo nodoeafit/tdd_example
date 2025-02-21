@@ -1,5 +1,5 @@
 using OrderService;
-// using KitchenService;
+
 
 public class KitchenServiceTest
 {
@@ -12,7 +12,7 @@ public class KitchenServiceTest
 
         kitchenService.ReceiveOrder(order);
         kitchenService.OrderReady(order.Id);
-        // Assert.NotNull(kitchenService.GetOrder(order.Id))
+        Assert.NotNull(kitchenService.GetOrder(order.Id));
         Assert.True(kitchenService.GetOrder(order.Id).IsReady);
     }
 
@@ -22,8 +22,8 @@ public class KitchenServiceTest
         var kitchenService = new KitchenService();
         var order = new Order { Id = 1, Amount = 20000, HasPromotion = false };
         kitchenService.ReceiveOrder(order);
-
-        Assert.Equal(kitchenService.GetOrder(order.Id), 1);
+        Assert.NotNull(kitchenService.GetOrder(order.Id));
+        Assert.Equal(order.Id, kitchenService.GetOrder(order.Id).Id);
 
     }
 
