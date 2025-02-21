@@ -33,5 +33,30 @@ public class OrderServiceTest
         Assert.Equal(9000, order.Amount);
     }
     
+    [Fact]
+    public void UpdateOrder_ShouldModifyOrder()
+    {
+        var service = new OrderService.OrderService();
+        var order = new Order { Id = 1, Amount = 20000 };
+        service.CreateOrder(order);
+
+        var updatedOrder = new Order { Id = 1, Amount = 25000 };
+        service.UpdateOrder(updatedOrder);
+
+        Assert.Equal(25000, updatedOrder.Amount);
+    }
+
+    [Fact]
+    public void DeleteOrder_ShouldRemoveOrder()
+    {
+        var service = new OrderService.OrderService();
+        var order = new Order { Id = 2, Amount = 15000 };
+        service.CreateOrder(order);
+        
+        service.DeleteOrder(order.Id);
+        
+        Assert.Throws<KeyNotFoundException>(() => service.GetOrderById(order.Id));
+    }
+
     
 }
