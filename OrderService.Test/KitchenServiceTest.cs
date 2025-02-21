@@ -1,19 +1,18 @@
+public class KitchenServiceTest
+{
 
-
-public class KitchenServiceTest{
-     
     [Fact]
     public void RegisterIngredients_ShouldAddKitchen()
     {
         //Arrange
-       var kitchenService = new OrderService.KitchenService();
-        
+        var kitchenService = new OrderService.KitchenService();
+
         //Act
-       var items = kitchenService.RegisterIngredients(new List<string> { "Arroz","Aguacate","Aceite","Azucar", "Sal"});
-        
+        var items = kitchenService.RegisterIngredients(new List<string> { "Arroz", "Aguacate", "Aceite", "Azucar", "Sal" });
+
         //Assert
         Assert.Equal(5, items.Count());
-        
+
     }
     [Fact]
     public void RegisterIngredients_ShouldThrowException_WhenListIsNull()
