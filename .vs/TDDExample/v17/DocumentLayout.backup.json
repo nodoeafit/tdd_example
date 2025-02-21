@@ -3,16 +3,56 @@
   "WorkspaceRootPath": "C:\\nodo\\tdd_example\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A8EA487-68FE-4D15-9B25-4871A7F513CD}|OrderService.Test\\OrderService.Test.csproj|c:\\nodo\\tdd_example\\orderservice.test\\orderservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A8EA487-68FE-4D15-9B25-4871A7F513CD}|OrderService.Test\\OrderService.Test.csproj|solutionrelative:orderservice.test\\orderservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4109889-F737-4424-B4F5-D092D8D03302}|OrderService\\OrderService.csproj|c:\\nodo\\tdd_example\\orderservice\\kitchenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4109889-F737-4424-B4F5-D092D8D03302}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\kitchenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8EA487-68FE-4D15-9B25-4871A7F513CD}|OrderService.Test\\OrderService.Test.csproj|c:\\nodo\\tdd_example\\orderservice.test\\kitchenservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8EA487-68FE-4D15-9B25-4871A7F513CD}|OrderService.Test\\OrderService.Test.csproj|solutionrelative:orderservice.test\\kitchenservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8EA487-68FE-4D15-9B25-4871A7F513CD}|OrderService.Test\\OrderService.Test.csproj|c:\\nodo\\tdd_example\\orderservice.test\\paymentservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8EA487-68FE-4D15-9B25-4871A7F513CD}|OrderService.Test\\OrderService.Test.csproj|solutionrelative:orderservice.test\\paymentservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4109889-F737-4424-B4F5-D092D8D03302}|OrderService\\OrderService.csproj|c:\\nodo\\tdd_example\\orderservice\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4109889-F737-4424-B4F5-D092D8D03302}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4109889-F737-4424-B4F5-D092D8D03302}|OrderService\\OrderService.csproj|c:\\nodo\\tdd_example\\orderservice\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4109889-F737-4424-B4F5-D092D8D03302}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4109889-F737-4424-B4F5-D092D8D03302}|OrderService\\OrderService.csproj|c:\\nodo\\tdd_example\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4109889-F737-4424-B4F5-D092D8D03302}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A4109889-F737-4424-B4F5-D092D8D03302}|OrderService\\OrderService.csproj|c:\\nodo\\tdd_example\\orderservice\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4109889-F737-4424-B4F5-D092D8D03302}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4109889-F737-4424-B4F5-D092D8D03302}|OrderService\\OrderService.csproj|c:\\nodo\\tdd_example\\orderservice\\kitchen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4109889-F737-4424-B4F5-D092D8D03302}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\kitchen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8EA487-68FE-4D15-9B25-4871A7F513CD}|OrderService.Test\\OrderService.Test.csproj|c:\\nodo\\tdd_example\\orderservice.test\\menuservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8EA487-68FE-4D15-9B25-4871A7F513CD}|OrderService.Test\\OrderService.Test.csproj|solutionrelative:orderservice.test\\menuservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8EA487-68FE-4D15-9B25-4871A7F513CD}|OrderService.Test\\OrderService.Test.csproj|c:\\nodo\\tdd_example\\orderservice.test\\orderservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8EA487-68FE-4D15-9B25-4871A7F513CD}|OrderService.Test\\OrderService.Test.csproj|solutionrelative:orderservice.test\\orderservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A4109889-F737-4424-B4F5-D092D8D03302}|OrderService\\OrderService.csproj|c:\\nodo\\tdd_example\\orderservice\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4109889-F737-4424-B4F5-D092D8D03302}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4109889-F737-4424-B4F5-D092D8D03302}|OrderService\\OrderService.csproj|c:\\nodo\\tdd_example\\orderservice\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4109889-F737-4424-B4F5-D092D8D03302}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8EA487-68FE-4D15-9B25-4871A7F513CD}|OrderService.Test\\OrderService.Test.csproj|c:\\nodo\\tdd_example\\orderservice.test\\orderservice.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A8EA487-68FE-4D15-9B25-4871A7F513CD}|OrderService.Test\\OrderService.Test.csproj|solutionrelative:orderservice.test\\orderservice.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +62,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 389,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\nodo\\tdd_example\\OrderService\\PaymentService.cs",
+              "RelativeDocumentMoniker": "OrderService\\PaymentService.cs",
+              "ToolTip": "C:\\nodo\\tdd_example\\OrderService\\PaymentService.cs",
+              "RelativeToolTip": "OrderService\\PaymentService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T22:56:36.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KitchenService.cs",
+              "DocumentMoniker": "C:\\nodo\\tdd_example\\OrderService\\KitchenService.cs",
+              "RelativeDocumentMoniker": "OrderService\\KitchenService.cs",
+              "ToolTip": "C:\\nodo\\tdd_example\\OrderService\\KitchenService.cs",
+              "RelativeToolTip": "OrderService\\KitchenService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T21:58:39.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\nodo\\tdd_example\\OrderService\\Payment.cs",
+              "RelativeDocumentMoniker": "OrderService\\Payment.cs",
+              "ToolTip": "C:\\nodo\\tdd_example\\OrderService\\Payment.cs",
+              "RelativeToolTip": "OrderService\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T02:11:59.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kitchen.cs",
+              "DocumentMoniker": "C:\\nodo\\tdd_example\\OrderService\\Kitchen.cs",
+              "RelativeDocumentMoniker": "OrderService\\Kitchen.cs",
+              "ToolTip": "C:\\nodo\\tdd_example\\OrderService\\Kitchen.cs",
+              "RelativeToolTip": "OrderService\\Kitchen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T02:09:43.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "C:\\nodo\\tdd_example\\OrderService\\MenuService.cs",
+              "RelativeDocumentMoniker": "OrderService\\MenuService.cs",
+              "ToolTip": "C:\\nodo\\tdd_example\\OrderService\\MenuService.cs",
+              "RelativeToolTip": "OrderService\\MenuService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:52:11.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "KitchenServiceTest.cs",
+              "DocumentMoniker": "C:\\nodo\\tdd_example\\OrderService.Test\\KitchenServiceTest.cs",
+              "RelativeDocumentMoniker": "OrderService.Test\\KitchenServiceTest.cs",
+              "ToolTip": "C:\\nodo\\tdd_example\\OrderService.Test\\KitchenServiceTest.cs",
+              "RelativeToolTip": "OrderService.Test\\KitchenServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T00:28:23.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "OrderService.cs",
               "DocumentMoniker": "C:\\nodo\\tdd_example\\OrderService\\OrderService.cs",
               "RelativeDocumentMoniker": "OrderService\\OrderService.cs",
               "ToolTip": "C:\\nodo\\tdd_example\\OrderService\\OrderService.cs",
               "RelativeToolTip": "OrderService\\OrderService.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAIAxwCoAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T02:40:33.19Z",
               "EditorCaption": ""
@@ -40,6 +158,57 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PaymentServiceTest.cs",
+              "DocumentMoniker": "C:\\nodo\\tdd_example\\OrderService.Test\\PaymentServiceTest.cs",
+              "RelativeDocumentMoniker": "OrderService.Test\\PaymentServiceTest.cs",
+              "ToolTip": "C:\\nodo\\tdd_example\\OrderService.Test\\PaymentServiceTest.cs",
+              "RelativeToolTip": "OrderService.Test\\PaymentServiceTest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAvwB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T00:26:57.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuServiceTest.cs",
+              "DocumentMoniker": "C:\\nodo\\tdd_example\\OrderService.Test\\MenuServiceTest.cs",
+              "RelativeDocumentMoniker": "OrderService.Test\\MenuServiceTest.cs",
+              "ToolTip": "C:\\nodo\\tdd_example\\OrderService.Test\\MenuServiceTest.cs",
+              "RelativeToolTip": "OrderService.Test\\MenuServiceTest.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAEwAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T00:28:50.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderServiceTest.cs",
+              "DocumentMoniker": "C:\\nodo\\tdd_example\\OrderService.Test\\OrderServiceTest.cs",
+              "RelativeDocumentMoniker": "OrderService.Test\\OrderServiceTest.cs",
+              "ToolTip": "C:\\nodo\\tdd_example\\OrderService.Test\\OrderServiceTest.cs",
+              "RelativeToolTip": "OrderService.Test\\OrderServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T02:25:47.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\nodo\\tdd_example\\OrderService\\Menu.cs",
+              "RelativeDocumentMoniker": "OrderService\\Menu.cs",
+              "ToolTip": "C:\\nodo\\tdd_example\\OrderService\\Menu.cs",
+              "RelativeToolTip": "OrderService\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T00:38:05.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\nodo\\tdd_example\\OrderService\\Order.cs",
               "RelativeDocumentMoniker": "OrderService\\Order.cs",
@@ -47,21 +216,19 @@
               "RelativeToolTip": "OrderService\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T02:40:27.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T02:40:27.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderServiceTest.cs",
-              "DocumentMoniker": "C:\\nodo\\tdd_example\\OrderService.Test\\OrderServiceTest.cs",
-              "RelativeDocumentMoniker": "OrderService.Test\\OrderServiceTest.cs",
-              "ToolTip": "C:\\nodo\\tdd_example\\OrderService.Test\\OrderServiceTest.cs",
-              "RelativeToolTip": "OrderService.Test\\OrderServiceTest.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAArwC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T02:25:47.763Z",
-              "EditorCaption": ""
+              "DocumentIndex": 12,
+              "Title": "OrderService.Test.csproj",
+              "DocumentMoniker": "C:\\nodo\\tdd_example\\OrderService.Test\\OrderService.Test.csproj",
+              "RelativeDocumentMoniker": "OrderService.Test\\OrderService.Test.csproj",
+              "ToolTip": "C:\\nodo\\tdd_example\\OrderService.Test\\OrderService.Test.csproj",
+              "RelativeToolTip": "OrderService.Test\\OrderService.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-21T00:31:10.797Z"
             }
           ]
         },
