@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\tdd_example\\OrderService\\OrderService.csproj": {}
+    "C:\\Users\\MAYE SALAS\\Desktop\\tdd_example\\OrderService\\OrderService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\tdd_example\\OrderService\\OrderService.csproj": {
+    "C:\\Users\\MAYE SALAS\\Desktop\\tdd_example\\OrderService\\OrderService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\tdd_example\\OrderService\\OrderService.csproj",
+        "projectUniqueName": "C:\\Users\\MAYE SALAS\\Desktop\\tdd_example\\OrderService\\OrderService.csproj",
         "projectName": "OrderService",
-        "projectPath": "C:\\Users\\USER\\tdd_example\\OrderService\\OrderService.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\tdd_example\\OrderService\\obj\\",
+        "projectPath": "C:\\Users\\MAYE SALAS\\Desktop\\tdd_example\\OrderService\\OrderService.csproj",
+        "packagesPath": "C:\\Users\\MAYE SALAS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MAYE SALAS\\Desktop\\tdd_example\\OrderService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MAYE SALAS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
