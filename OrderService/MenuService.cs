@@ -4,6 +4,10 @@ namespace OrderService {
             if(items == null){
                 throw new ArgumentNullException();
             }
+            if (items.GroupBy(x => x).Any(g => g.Count() > 1))
+            {
+                throw new ArgumentException("No se pueden registrar platillos duplicados.");
+            }
             return items;
         }
         

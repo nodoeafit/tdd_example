@@ -29,5 +29,15 @@ public class MenuServiceTest {
 
     }
     
+    [Fact]
+    
+    public void RegisterItems_ShouldThrowException_WhenMenuContainsDuplicateItems()
+    {
+        // Arrange
+        var menuService = new OrderService.MenuService();
+        
+        // Act & Assert
+        Assert.Throws<ArgumentException>(() => menuService.RegisterItems(new List<string> { "Pescado", "Tarta", "Pescado" }));
+    }
 
 }
