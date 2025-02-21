@@ -1,6 +1,8 @@
-﻿namespace PaymentService.Tests
+﻿
+namespace PaymentService.Tests
 {
-    using xunit;
+    using Xunit;
+    using PaymentServiceNamespace;
 
     public class PaymentServiceTest
     {
@@ -9,8 +11,8 @@
         public void PaymentProcessingWithCreditCardTest()
         {
             // Preparación
-            var paymentService = new PaymentService();
-            var payment = new Payment
+            var paymentService = new PaymentServiceNamespace.PaymentService();
+            var payment = new PaymentServiceNamespace.Payment
             {
                 Amount = 100,
                 MetodoDePago = "CreditCard",
@@ -33,11 +35,11 @@
         public void PaymentProcessingWithCashTest()
         {
             // Preparación
-            var paymentService = new PaymentService();
-            var payment = new Payment
+            var paymentService = new PaymentServiceNamespace.PaymentService();
+            var payment = new PaymentServiceNamespace.Payment
             {
                 Amount = 100,
-                MetodoDePago = "Cash"
+                MetodoDePago = "Cash",
                 DineroRecibido = 100
             };
 
@@ -54,8 +56,8 @@
         public void PaymentProcessingWithInsufficientCashTest()
         {
             // Preparación
-            var paymentService = new PaymentService();
-            var payment = new Payment
+            var paymentService = new PaymentServiceNamespace.PaymentService();
+            var payment = new PaymentServiceNamespace.Payment
             {
                 Amount = 100,
                 MetodoDePago = "Cash",
@@ -75,8 +77,8 @@
         public void PaymentFailureHandlingTest()
         {
             // Preparación
-            var paymentService = new PaymentService();
-            var payment = new Payment
+            var paymentService = new PaymentServiceNamespace.PaymentService();
+            var payment = new PaymentServiceNamespace.Payment
             {
                 Amount = 100,
                 MetodoDePago = "CreditCard",
@@ -91,7 +93,7 @@
 
             // Verificación
             Assert.False(result.IsSuccess);
-            Assert.Equal("Pago fallido", result.Message);
+            Assert.Equal("Pago fallido: tarjeta inválida", result.Message);
         }
 
         [Fact]
@@ -99,8 +101,8 @@
         public void PaymentFailureHandlingWithDebitCardTest()
         {
             // Preparación
-            var paymentService = new PaymentService();
-            var payment = new Payment
+            var paymentService = new PaymentServiceNamespace.PaymentService();
+            var payment = new PaymentServiceNamespace.Payment
             {
                 Amount = 100,
                 MetodoDePago = "DebitCard",
@@ -115,7 +117,7 @@
 
             // Verificación
             Assert.False(result.IsSuccess);
-            Assert.Equal("Pago fallido", result.Message);
+            Assert.Equal("Pago fallido: tarjeta inválida", result.Message);
         }
 
         [Fact]
@@ -123,8 +125,8 @@
         public void TotalAmountCalculationTest()
         {
             // Preparación
-            var paymentService = new PaymentService();
-            var payment = new Payment
+            var paymentService = new PaymentServiceNamespace.PaymentService();
+            var payment = new PaymentServiceNamespace.Payment
             {
                 Amount = 100,
                 MetodoDePago = "CreditCard",
@@ -146,8 +148,8 @@
         public void TotalAmountCalculationWithCashTest()
         {
             // Preparación
-            var paymentService = new PaymentService();
-            var payment = new Payment
+            var paymentService = new PaymentServiceNamespace.PaymentService();
+            var payment = new PaymentServiceNamespace.Payment
             {
                 Amount = 100,
                 MetodoDePago = "Cash",
