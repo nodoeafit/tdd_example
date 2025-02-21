@@ -1,3 +1,5 @@
+using OrderService.Models;
+
 public class KitchenServiceTest{
      
     [Fact]
@@ -17,5 +19,27 @@ public class KitchenServiceTest{
         var kitchenService = new OrderService.Services.KitchenService();
 
         Assert.Throws<ArgumentNullException>(() => kitchenService.RegisterIngredients(null));
+    }
+
+    [Fact]
+    public void DeleteIngredient_ShouldDeleteIngredient(){
+
+        var kitchenService = new OrderService.Services.KitchenService();
+
+        var deleteItem = new Kitchen { Id = 1, IngredientName = "Arroz" };
+
+        kitchenService.RegisterIngredients(new List<string> { deleteItem.IngredientName });
+
+        var result = kitchenService.DeleteIngredient(1);
+        
+        Assert.Equal("Ingredient deleted", result.IngredientName);
+    }
+
+    [Fact]
+    public void DeleteIngredient_ShouldThrowException_WhenIdDoesNotExist(){
+
+        var kitchenService = new OrderService.Services.KitchenService();
+        
+        Assert.Throws<NotImplementedException>(()=> kitchenService.DeleteIngredient(5));
     }
 }
