@@ -23,4 +23,20 @@ public class KitchenServiceTest{
         Assert.Throws<ArgumentNullException>(() => kitchenService.RegisterIngredients(null));
 
     }
+
+    [Fact]
+    public void RegisterIngredients_ShouldHandleDuplicateIngredients(){
+        //Arrange
+        var kitchenService = new OrderService.KitchenService();
+        var ingredients = new List<string> { "Arroz","Arroz","Aceite","Azucar","Pollo" ,"Sal","Tomates","Lechuga","Tomates","Pollo"};
+
+        //Act
+        var items = kitchenService.RegisterIngredients(ingredients);
+
+        //Assert
+        Assert.Equal(10, items.Count());
+        Assert.Equal(2, items.Count(x => x == "Arroz"));
+        Assert.Equal(2, items.Count(x => x == "Tomates"));
+        Assert.Equal(2, items.Count(x => x == "Pollo"));
+    }
 }
