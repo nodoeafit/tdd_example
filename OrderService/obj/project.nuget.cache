@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qXD6S2UdQ0E=",
+  "dgSpecHash": "H9OKomDnH7Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\tdd_example\\OrderService\\OrderService.csproj",
+  "projectFilePath": "C:\\Pruebas_class\\tdd_example\\OrderService\\OrderService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
