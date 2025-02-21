@@ -1,26 +1,27 @@
 
+namespace OrderService.Test {
+    public class KitchenServiceTest {
+        [Fact]
+        public void RegisterItems_ShouldReturnSameList_WhenValidListProvided() {
+            // Arrange
+            var service = new KitchenService();
+            var items = new List<string> { "Pizza", "Pasta" };
 
-public class KitchenServiceTest{
-     
-    [Fact]
-    public void RegisterIngredients_ShouldAddKitchen()
-    {
-        //Arrange
-       var kitchenService = new OrderService.KitchenService();
-        
-        //Act
-       var items = kitchenService.RegisterIngredients(new List<string> { "Arroz","Aguacate","Aceite","Azucar", "Sal"});
-        
-        //Assert
-        Assert.Equal(5, items.Count());
-        
-    }
-    [Fact]
-    public void RegisterIngredients_ShouldThrowException_WhenListIsNull()
-    {
-        var kitchenService = new OrderService.KitchenService();
+            // Act
+            var result = service.RegisterItems(items);
 
-        Assert.Throws<ArgumentNullException>(() => kitchenService.RegisterIngredients(null));
+            // Assert
+            Assert.Equal(items, result);
+        }
 
+        [Fact]
+        public void RegisterItems_ShouldThrowArgumentNullException_WhenNullListProvided() {
+            // Arrange
+            var service = new KitchenService();
+
+            // Act & Assert
+           List<string>? items = null;
+           Assert.Throws<ArgumentNullException>(() => service.RegisterItems(items));
+           }
     }
 }
