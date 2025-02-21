@@ -119,49 +119,6 @@ namespace PaymentService.Tests
             Assert.False(result.IsSuccess);
             Assert.Equal("Pago fallido: tarjeta inválida", result.Message);
         }
-
-        [Fact]
-        //Prueba el calculo del total
-        public void TotalAmountCalculationTest()
-        {
-            // Preparación
-            var paymentService = new PaymentServiceNamespace.PaymentService();
-            var payment = new PaymentServiceNamespace.Payment
-            {
-                Amount = 100,
-                MetodoDePago = "CreditCard",
-                NumeroDeTarjeta = "1234567890123456",
-                NombreEnTarjeta = "Frank Ocean",
-                Vencimiento = new DateTime(2029, 12, 1),
-                CVV = "123"
-            };
-
-            // Ejecución
-            var result = paymentService.CalculateTotalAmount(payment);
-
-            // Verificación
-            Assert.Equal(100, result);
-        }
-
-        [Fact]
-        //Prueba el calculo del total con efectivo
-        public void TotalAmountCalculationWithCashTest()
-        {
-            // Preparación
-            var paymentService = new PaymentServiceNamespace.PaymentService();
-            var payment = new PaymentServiceNamespace.Payment
-            {
-                Amount = 100,
-                MetodoDePago = "Cash",
-                DineroRecibido = 100
-            };
-
-            // Ejecución
-            var result = paymentService.CalculateTotalAmount(payment);
-
-            // Verificación
-            Assert.Equal(100, result);
-        }
     }
 
 }

@@ -6,4 +6,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PaymentService\PaymentService.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+  <ProjectReference Include="..\MenuService\MenuService.csproj" />
+  </ItemGroup>
+
 </Project>

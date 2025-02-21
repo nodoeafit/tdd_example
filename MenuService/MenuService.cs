@@ -1,11 +1,16 @@
 ﻿namespace MenuServiceNamespace
 {
-    public class MenuService() 
+    public class MenuService()
     {
-        private Menu menu = new Menu();
-        menu.Items.Add("Hamburguesa", 5.99m);
-        menu.Items.Add("Papas Fritas", 2.99m);
-        menu.Items.Add("Refresco", 1.99m);
+        Menu menu = new Menu
+        {
+            Items = new Dictionary<string, decimal>
+            {
+                { "Hamburguesa", 5.99m },
+                { "Papas Fritas", 2.99m },
+                { "Refresco", 1.99m }
+            }
+        };
 
         public Dictionary<string, decimal> GetMenu()
         {
@@ -26,9 +31,18 @@
             menu.Items.Add(item, price);
         }
 
-        public void RemoveMenuItem(string item)
+        public int RemoveMenuItem(string item)
         {
             menu.Items.Remove(item);
+
+            if (!menu.Items.ContainsKey(item))
+            {
+                // Si se borro correctamente el item devuelve 0
+                return 0;
+            }
+
+            // Si no se borro correctamente el item devuelve 1
+            return 1;
         }
 
         public void UpdateMenuItemPrice(string item, decimal price)

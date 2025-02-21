@@ -1,9 +1,8 @@
-﻿namespace PaymentService
+﻿namespace PaymentServiceNamespace
 {
-    using PaymentNamespace;
     public class PaymentService
     {
-        public void ProcessPayment(Payment payment)
+        public PaymentResult ProcessPayment(Payment payment)
         {
             // Procesamiento de pago
             if (payment.MetodoDePago == "CreditCard" || payment.MetodoDePago == "DebitCard")
@@ -55,19 +54,13 @@
         private bool IsCardValid(Payment payment)
         {
             // Verifica que tenga la cantidad de digitos correcta y que no haya expirado
-            return payment.CardNumber.Length == 16 && payment.Vencimiento > DateTime.Now;
+            return payment.NumeroDeTarjeta.Length == 16 && payment.Vencimiento > DateTime.Now;
         }
 
         private bool HasSufficientFunds(Payment payment)
         {
             // Verifica que haya suficientes fondos en la tarjeta (este es solo en ejemplo, falta logica real)
             return payment.Amount <= 1000;
-        }
-
-        public decimal CalculateTotalAmount(Payment payment)
-        {
-            // Calcula el monto total a pagar (pendiente de implementar)
-            return payment.Amount;
         }
     }
 }
