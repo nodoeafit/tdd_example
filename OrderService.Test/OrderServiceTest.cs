@@ -1,7 +1,4 @@
-using Xunit;
-using Moq;
 using OrderService.Models;
-using OrderService.Services;
 
 public class OrderServiceTest 
 {

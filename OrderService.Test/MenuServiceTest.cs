@@ -11,6 +11,10 @@ public class MenuServiceTest
         var items = menuService.RegisterItems(new List<string> { "Pescado", "Tarta", "Bandeja Paisa", "Mondongo" });
 
         Assert.Equal(4, items.Count());
+        Assert.Equal("Pescado", items[0]);
+        Assert.Equal("Tarta", items[1]);
+        Assert.Equal("Bandeja Paisa", items[2]);
+        Assert.Equal("Mondongo", items[3]);
 
     }
 
@@ -62,7 +66,7 @@ public class MenuServiceTest
     public void UpdateItem_ShouldThrowException_WhenItemDoesNotExist(){
 
         var menuService = new OrderService.Services.MenuService();
-        
+
         Assert.Throws<NotImplementedException>(()=> menuService.UpdateItemName(5, "Pescado Frito"));
     }
 }

@@ -8,9 +8,13 @@ public class KitchenServiceTest{
        var kitchenService = new OrderService.Services.KitchenService();
 
        var items = kitchenService.RegisterIngredients(new List<string> { "Arroz","Aguacate","Aceite","Azucar", "Sal"});
-
+       
         Assert.Equal(5, items.Count());
-        
+        Assert.Equal("Arroz", items[0]);
+        Assert.Equal("Aguacate", items[1]);
+        Assert.Equal("Aceite", items[2]);
+        Assert.Equal("Azucar", items[3]);    
+        Assert.Equal("Sal", items[4]);
     }
 
     [Fact]
