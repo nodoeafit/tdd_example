@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Gn2dQLPioI=",
+  "dgSpecHash": "R1KlxKdva3E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Pruebas\\tdd_example\\OrderService\\OrderService.csproj",
+  "projectFilePath": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Restaurante\\tdd_example\\OrderService\\OrderService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

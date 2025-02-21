@@ -1,0 +1,12 @@
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\MenuService\bin\Debug\net9.0\MenuService.deps.json
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\MenuService\bin\Debug\net9.0\MenuService.dll
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\MenuService\bin\Debug\net9.0\MenuService.pdb
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\MenuService\obj\Debug\net9.0\MenuService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\MenuService\obj\Debug\net9.0\MenuService.AssemblyInfoInputs.cache
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\MenuService\obj\Debug\net9.0\MenuService.AssemblyInfo.cs
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\MenuService\obj\Debug\net9.0\MenuService.csproj.CoreCompileInputs.cache
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\MenuService\obj\Debug\net9.0\MenuService.sourcelink.json
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\MenuService\obj\Debug\net9.0\MenuService.dll
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\MenuService\obj\Debug\net9.0\refint\MenuService.dll
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\MenuService\obj\Debug\net9.0\MenuService.pdb
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\MenuService\obj\Debug\net9.0\ref\MenuService.dll

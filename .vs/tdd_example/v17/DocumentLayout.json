@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Pruebas\\tdd_example\\",
+  "WorkspaceRootPath": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Restaurante\\tdd_example\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Pruebas\\tdd_example\\OrderService\\OrderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Restaurante\\tdd_example\\OrderService\\OrderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OrderService\\OrderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Pruebas\\tdd_example\\OrderService.Test\\OrderServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Restaurante\\tdd_example\\OrderService.Test\\OrderServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OrderService.Test\\OrderServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Pruebas\\tdd_example\\OrderService\\IOrderRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Restaurante\\tdd_example\\OrderService\\IOrderRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OrderService\\IOrderRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,22 +32,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Pruebas\\tdd_example\\OrderService\\IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Restaurante\\tdd_example\\OrderService\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "OrderService\\IOrderRepository.cs",
-              "ToolTip": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Pruebas\\tdd_example\\OrderService\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Restaurante\\tdd_example\\OrderService\\IOrderRepository.cs",
               "RelativeToolTip": "OrderService\\IOrderRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T20:04:44.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T20:04:44.987Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Pruebas\\tdd_example\\OrderService\\OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Restaurante\\tdd_example\\OrderService\\OrderService.cs",
               "RelativeDocumentMoniker": "OrderService\\OrderService.cs",
-              "ToolTip": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Pruebas\\tdd_example\\OrderService\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Restaurante\\tdd_example\\OrderService\\OrderService.cs",
               "RelativeToolTip": "OrderService\\OrderService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,14 +57,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "OrderServiceTest.cs",
-              "DocumentMoniker": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Pruebas\\tdd_example\\OrderService.Test\\OrderServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Restaurante\\tdd_example\\OrderService.Test\\OrderServiceTest.cs",
               "RelativeDocumentMoniker": "OrderService.Test\\OrderServiceTest.cs",
-              "ToolTip": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Pruebas\\tdd_example\\OrderService.Test\\OrderServiceTest.cs",
+              "ToolTip": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Restaurante\\tdd_example\\OrderService.Test\\OrderServiceTest.cs",
               "RelativeToolTip": "OrderService.Test\\OrderServiceTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T19:25:36.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T19:25:36.902Z"
             }
           ]
         },

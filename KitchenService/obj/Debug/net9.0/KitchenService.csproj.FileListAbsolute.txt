@@ -1,0 +1,12 @@
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\KitchenService\bin\Debug\net9.0\KitchenService.deps.json
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\KitchenService\bin\Debug\net9.0\KitchenService.dll
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\KitchenService\bin\Debug\net9.0\KitchenService.pdb
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\KitchenService\obj\Debug\net9.0\KitchenService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\KitchenService\obj\Debug\net9.0\KitchenService.AssemblyInfoInputs.cache
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\KitchenService\obj\Debug\net9.0\KitchenService.AssemblyInfo.cs
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\KitchenService\obj\Debug\net9.0\KitchenService.csproj.CoreCompileInputs.cache
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\KitchenService\obj\Debug\net9.0\KitchenService.sourcelink.json
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\KitchenService\obj\Debug\net9.0\KitchenService.dll
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\KitchenService\obj\Debug\net9.0\refint\KitchenService.dll
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\KitchenService\obj\Debug\net9.0\KitchenService.pdb
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\07-Restaurante\tdd_example\KitchenService\obj\Debug\net9.0\ref\KitchenService.dll

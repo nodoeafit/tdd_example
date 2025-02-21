@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dou7jj+BFaA=",
+  "dgSpecHash": "5lzPy5h5KQA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Pruebas\\tdd_example\\OrderService.Test\\OrderService.Test.csproj",
+  "projectFilePath": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\07-Restaurante\\tdd_example\\OrderService.Test\\OrderService.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Roger Escobar\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Roger Escobar\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
