@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MZu9SmmfunU=",
+  "dgSpecHash": "pPt//z/W8Jg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\pipet\\Documents\\GitHub\\tdd_example\\OrderService.Test\\OrderService.Test.csproj",
+  "projectFilePath": "C:\\Users\\pipet\\Documents\\tdd_example\\OrderService.Test\\OrderService.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pipet\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\pipet\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
